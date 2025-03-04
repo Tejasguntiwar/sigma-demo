@@ -1,2 +1,2 @@
 # sigma-demo
-Demo for Git Githb
+Demo for Git Github.
